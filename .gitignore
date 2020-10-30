@@ -31,3 +31,6 @@ npm-debug.log
 /obj/Debug
 /bin
 /*.bat
+
+*.dump
+*.dump.gz
